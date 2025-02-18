@@ -57,7 +57,7 @@ with the following privileges.:
 - MySql Database ([see Database section](#database-structure))
 - Go 1.23
 
-1.
+1. `git clone https://github.com/rltran-codex/myblog-api`
 2. set environment variables or a `.env` file
 
 ```
